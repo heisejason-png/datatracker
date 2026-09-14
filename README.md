@@ -319,4 +319,4 @@ npm run test:legacy
 
 To compare 2 different datatracker instances and look for diff, read the [diff tool instructions](dev/diff).
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk  https://www.x.com
