@@ -318,4 +318,5 @@ npm run test:legacy
 ### Diff Tool
 
 To compare 2 different datatracker instances and look for diff, read the [diff tool instructions](dev/diff).
-Created by Jason Heise   https://next.frame.io
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
